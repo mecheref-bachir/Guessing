@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab 2</string>
+    <string name="add">Add Chemical</string>
+    <string name="sorry">Sorry,wrong guess, The correct answer was not</string>
+    <string name="congrats">congratulations ! You guessed it right. it was</string>
+    <string name="added">element added successfully</string>
+    <string name="validateInput">Please Provide an input</string>
+</resources>
